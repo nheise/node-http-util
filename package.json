@@ -1,0 +1,26 @@
+{
+  "name": "node-http-util",
+  "version": "0.1.0",
+  "description": "Utilities for node js http",
+  "main": "nhutil.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "ospec"
+  },
+  "keywords": [
+    "util",
+    "http",
+    "nodejs",
+    "utilities"
+  ],
+  "author": "nheise",
+  "license": "MIT",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "ospec": "^1.2.3",
+    "static-app-server": "0.1.0"
+  },
+  "repository": "nheise/node-http-util"
+}
